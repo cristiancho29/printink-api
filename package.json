@@ -1,0 +1,17 @@
+{
+  "name": "printink-api",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristiancho29/printink-api"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.4.0",
+    "mongoose": "^4.9.6"
+  },
+  "author": "@cristiancho29"
+}
